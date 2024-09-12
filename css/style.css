@@ -1,0 +1,49 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.col-12{
+    text-align: center;
+   font-size: 2em;
+
+}
+#checkbox{
+    width: 50px;
+    height: 30px;
+}
+
+.radio{
+    width: 20px;
+    height: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#mastercard{
+    margin-left: 62px;
+}
+#visa{
+    margin-left: -45px;
+}
+#Paypal{
+   margin-left: -6px;
+}
+.par{
+    font-size: 18px;
+    font-weight: 700;
+    color: blue;
+}
+.submit{
+    background-color: blue;
+    border-radius: 14px;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+}
+.submit:hover{
+    background-color: rgb(43, 249, 43);
+    color: black;
+    transition: ease-in-out 0.1s;
+}
